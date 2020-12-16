@@ -113,6 +113,7 @@
 
 ## O
 
+>* *OG Tag* - [Open Graph Tag](https://blog.ab180.co/posts/open-graph-as-a-website-preview)
 >* *Orchestration* - 오케스트레이션
 
 [△Top](#단어용어정리)
