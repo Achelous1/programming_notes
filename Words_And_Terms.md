@@ -61,6 +61,8 @@
 
 ## D
 
+>* *DDD* - Domain Driven Design
+
 [△Top](#단어용어정리)
 
 ## E
@@ -136,6 +138,8 @@
 [△Top](#단어용어정리)
 
 ## T
+
+>* *TDD* - Test Driven Design
 
 [△Top](#단어용어정리)
 
