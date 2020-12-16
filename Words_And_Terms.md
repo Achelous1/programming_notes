@@ -113,7 +113,8 @@
 
 ## O
 
->* *OG Tag* - [Open Graph Tag](https://blog.ab180.co/posts/open-graph-as-a-website-preview)
+>* *OG Tag* - [Open Graph Tag](https://blog.ab180.co/posts/open-graph-as-a-website-preview)<br/>
+  `HTML 메타정보 부분에 해당 사이트의 타이틀, 설명, 이미지 데이터를 저장하여 해당 정보를 바탕으로 미리보기 등을 생성하기 위한 프로토콜`
 >* *Orchestration* - 오케스트레이션
 
 [△Top](#단어용어정리)
