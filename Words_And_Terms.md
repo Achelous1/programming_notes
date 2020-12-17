@@ -96,6 +96,8 @@
 
 ## R
 
+>* *RL* - Reinforcement Learning (basic guide from SunghunKim [참조][RL-guide])
+
 [△Top](#단어용어정리)
 
 ## S
@@ -216,3 +218,4 @@
 
 
 [ref-aas]:https://en.wikipedia.org/wiki/As_a_service
+[RL-guide]:https://www.inflearn.com/course/reinforcement-learning#
