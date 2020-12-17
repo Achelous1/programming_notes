@@ -1,47 +1,8 @@
 # 단어용어정리
 
-- INDEX <br>
-   [**A**](#a)&nbsp;&nbsp;
-   [**B**](#b)&nbsp;&nbsp;
-   [**C**](#c)&nbsp;&nbsp;
-   [**D**](#d)&nbsp;&nbsp;
-   [**E**](#e)&nbsp;&nbsp;
-   [**F**](#f)&nbsp;&nbsp;
-   [**G**](#g)&nbsp;&nbsp;
-   [**H**](#h)&nbsp;&nbsp;
-   [**I**](#i)&nbsp;&nbsp;
-   [**J**](#j)&nbsp;&nbsp;
-   [**K**](#k)&nbsp;&nbsp;
-   [**L**](#l)&nbsp;&nbsp;
-   [**M**](#m)&nbsp;&nbsp;
-   [**N**](#n)&nbsp;&nbsp;
-   [**O**](#o)&nbsp;&nbsp;
-   [**P**](#p)&nbsp;&nbsp;
-   [**Q**](#q)&nbsp;&nbsp;
-   [**R**](#r)&nbsp;&nbsp;
-   [**S**](#s)&nbsp;&nbsp;
-   [**T**](#t)&nbsp;&nbsp;
-   [**U**](#u)&nbsp;&nbsp;
-   [**V**](#v)&nbsp;&nbsp;
-   [**W**](#w)&nbsp;&nbsp;
-   [**X**](#x)&nbsp;&nbsp;
-   [**Y**](#y)&nbsp;&nbsp;
-   [**Z**](#z)<br>
-   [**ㄱ**](#ㄱ)&nbsp;&nbsp;
-   [**ㄴ**](#ㄴ)&nbsp;&nbsp;
-   [**ㄷ**](#ㄷ)&nbsp;&nbsp;
-   [**ㄹ**](#ㄹ)&nbsp;&nbsp;
-   [**ㅁ**](#ㅁ)&nbsp;&nbsp;
-   [**ㅂ**](#ㅂ)&nbsp;&nbsp;
-   [**ㅅ**](#ㅅ)&nbsp;&nbsp;
-   [**ㅇ**](#ㅇ)&nbsp;&nbsp;
-   [**ㅈ**](#ㅈ)&nbsp;&nbsp;
-   [**ㅊ**](#ㅊ)&nbsp;&nbsp;
-   [**ㅋ**](#ㅋ)&nbsp;&nbsp;
-   [**ㅌ**](#ㅌ)&nbsp;&nbsp;
-   [**ㅍ**](#ㅍ)&nbsp;&nbsp;
-   [**ㅎ**](#ㅎ)&nbsp;&nbsp;
-   [**Etc**.](#etc)
+##   [**A**](#a)&nbsp;&nbsp;   [**B**](#b)&nbsp;&nbsp;   [**C**](#c)&nbsp;&nbsp;   [**D**](#d)&nbsp;&nbsp;   [**E**](#e)&nbsp;&nbsp;   [**F**](#f)&nbsp;&nbsp;   [**G**](#g)&nbsp;&nbsp;   [**H**](#h)&nbsp;&nbsp;   [**I**](#i)&nbsp;&nbsp;   [**J**](#j)&nbsp;&nbsp;   [**K**](#k)&nbsp;&nbsp;   [**L**](#l)&nbsp;&nbsp;   [**M**](#m)&nbsp;&nbsp;   [**N**](#n)&nbsp;&nbsp;   [**O**](#o)&nbsp;&nbsp;   [**P**](#p)&nbsp;&nbsp;   [**Q**](#q)&nbsp;&nbsp;   [**R**](#r)&nbsp;&nbsp;   [**S**](#s)&nbsp;&nbsp;   [**T**](#t)&nbsp;&nbsp;   [**U**](#u)&nbsp;&nbsp;   [**V**](#v)&nbsp;&nbsp;   [**W**](#w)&nbsp;&nbsp;   [**X**](#x)&nbsp;&nbsp;   [**Y**](#y)&nbsp;&nbsp;   [**Z**](#z)<br>
+
+##   [**ㄱ**](#ㄱ)&nbsp;&nbsp;   [**ㄴ**](#ㄴ)&nbsp;&nbsp;   [**ㄷ**](#ㄷ)&nbsp;&nbsp;   [**ㄹ**](#ㄹ)&nbsp;&nbsp;   [**ㅁ**](#ㅁ)&nbsp;&nbsp;   [**ㅂ**](#ㅂ)&nbsp;&nbsp;   [**ㅅ**](#ㅅ)&nbsp;&nbsp;   [**ㅇ**](#ㅇ)&nbsp;&nbsp;   [**ㅈ**](#ㅈ)&nbsp;&nbsp;   [**ㅊ**](#ㅊ)&nbsp;&nbsp;   [**ㅋ**](#ㅋ)&nbsp;&nbsp;   [**ㅌ**](#ㅌ)&nbsp;&nbsp;   [**ㅍ**](#ㅍ)&nbsp;&nbsp;   [**ㅎ**](#ㅎ)&nbsp;&nbsp;   [**Etc**.](#etc)
 
 ## A 
 
@@ -55,6 +16,7 @@
 
 ## C
 
+>* *CI* - Continuous Integration
 >* *Clustering* - 클러스터링
 >* *Containerization* - 컨테이너화
 
