@@ -96,6 +96,9 @@
 
 ## R
 
+
+>* *RPA* - Robotic Process Automation
+
 [△Top](#단어용어정리)
 
 ## S
@@ -126,6 +129,8 @@
 [△Top](#단어용어정리)
 
 ## X
+
+>* *XSS* - [Cross Site Scripting](https://owasp.org/www-community/attacks/xss/)
 
 [△Top](#단어용어정리)
 
