@@ -19,6 +19,8 @@
 >* *CI* - Continuous Integration
 >* *Clustering* - 클러스터링
 >* *Containerization* - 컨테이너화
+>* *Csv* - Comma-Seprate Values
+>* *CVS* - Concurrent version system의 약자로, 버전 관리 툴.
 
 [△Top](#단어용어정리)
 
