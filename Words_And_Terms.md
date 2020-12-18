@@ -21,6 +21,8 @@
 >* *CNN* - Convolutional Neural Network<br/>
   `일반 신경망에 복잡성을 추가하여 연산처리 성능을 올린 것. 주로 이미지 처리 등에 사용`
 >* *Containerization* - 컨테이너화
+>* *Csv* - Comma-Seprate Values
+>* *CVS* - Concurrent version system의 약자로, 버전 관리 툴.
 
 [△Top](#단어용어정리)
 
@@ -82,6 +84,7 @@
 
 >* *OG Tag* - [Open Graph Tag](https://blog.ab180.co/posts/open-graph-as-a-website-preview)<br/>
   `HTML 메타정보 부분에 해당 사이트의 타이틀, 설명, 이미지 데이터를 저장하여 해당 정보를 바탕으로 미리보기 등을 생성하기 위한 프로토콜`
+>* *OOP* - Object Oriented Programming (객체지향프로그래밍)
 >* *Orchestration* - 오케스트레이션
 
 [△Top](#단어용어정리)
@@ -99,6 +102,7 @@
 ## R
 
 >* *RL* - Reinforcement Learning (basic guide from SunghunKim [참조][RL-guide])
+>* *RPA* - Robotic Process Automation
 
 [△Top](#단어용어정리)
 
@@ -116,6 +120,8 @@
 
 ## U
 
+>* *UML* - Unified Modeling Language
+
 [△Top](#단어용어정리)
 
 ## V
@@ -127,9 +133,13 @@
 
 ## W
 
+>* *WWW* - World Wide Web의 약자
+
 [△Top](#단어용어정리)
 
 ## X
+
+>* *XSS* - [Cross Site Scripting](https://owasp.org/www-community/attacks/xss/)
 
 [△Top](#단어용어정리)
 
