@@ -18,6 +18,8 @@
 
 >* *CI* - Continuous Integration
 >* *Clustering* - 클러스터링
+>* *CNN* - Convolutional Neural Network<br/>
+  `일반 신경망에 복잡성을 추가하여 연산처리 성능을 올린 것. 주로 이미지 처리 등에 사용`
 >* *Containerization* - 컨테이너화
 >* *Csv* - Comma-Seprate Values
 >* *CVS* - Concurrent version system의 약자로, 버전 관리 툴.
@@ -99,7 +101,7 @@
 
 ## R
 
-
+>* *RL* - Reinforcement Learning (basic guide from SunghunKim [참조][RL-guide])
 >* *RPA* - Robotic Process Automation
 
 [△Top](#단어용어정리)
@@ -228,3 +230,4 @@
 
 
 [ref-aas]:https://en.wikipedia.org/wiki/As_a_service
+[RL-guide]:https://www.inflearn.com/course/reinforcement-learning#
