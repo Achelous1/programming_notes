@@ -18,6 +18,8 @@
 
 >* *CI* - Continuous Integration
 >* *Clustering* - 클러스터링
+>* *CNN* - Convolutional Neural Network<br/>
+  `일반 신경망에 복잡성을 추가하여 연산처리 성능을 올린 것. 주로 이미지 처리 등에 사용`
 >* *Containerization* - 컨테이너화
 
 [△Top](#단어용어정리)
