@@ -20,8 +20,9 @@ In your .vbox file locate <ExtraData> section and add the following line:
 
 ## 위 방법이 안될 시
 > `Window 키 + S --> 'Windows 기능 켜기/끄기' --> 'Hyper-V' 기능 또는 'Windows 하이퍼바이저 플랫폼'과 '가상머신 플랫폼'` 기능 해제 및 윈도우 재시작<br>
-[![windows feature disable](capture_windows_feature_disable.png)]
+![windows feature disable](capture_windows_feature_disable.png)
 
+> * 기본적으로 `WSL2`와 `VMWare` 또는 `Virtualbox`는 호환이 되지 않는다. 그렇기에 `WSL2`가 설치된 필자의 PC에서는 `WSL2`와 `Virtualbox`가 동시에 실행되지 않았던것.. (`Hyper-v`를 기본적으로 사용하는 `Docker`도 마찬가지)
 
 # Links
 * [Yes, You Can Run Docker AND Virtualbox on Windows 10 Home](https://www.tcg.com/blog/yes-you-can-run-docker-and-virtualbox-on-windows-10-home/)
