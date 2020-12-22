@@ -101,6 +101,7 @@
 
 ## R
 
+>* *REST(Representational State Transfer) API* - [참조][ref-REST_API]
 >* *RL* - Reinforcement Learning (basic guide from SunghunKim [참조][RL-guide])
 >* *RPA* - Robotic Process Automation
 
@@ -231,3 +232,4 @@
 
 [ref-aas]:https://en.wikipedia.org/wiki/As_a_service
 [RL-guide]:https://www.inflearn.com/course/reinforcement-learning#
+[ref-REST_API]: https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html

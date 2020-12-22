@@ -18,6 +18,11 @@ In your .vbox file locate <ExtraData> section and add the following line:
 <ExtraDataItem name="VBoxInternal/NEM/UseRing0Runloop" value="0"/>
 ```
 
+## 위 방법이 안될 시
+> `Window 키 + S --> 'Windows 기능 켜기/끄기' --> 'Hyper-V' 기능 또는 'Windows 하이퍼바이저 플랫폼'과 '가상머신 플랫폼'` 기능 해제 및 윈도우 재시작<br>
+[![windows feature disable](capture_windows_feature_disable.png)]
+
+
 # Links
 * [Yes, You Can Run Docker AND Virtualbox on Windows 10 Home](https://www.tcg.com/blog/yes-you-can-run-docker-and-virtualbox-on-windows-10-home/)
 * [Virtualbox Forum](https://forums.virtualbox.org/viewtopic.php?t=90853&start=120)
