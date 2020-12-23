@@ -21,7 +21,7 @@
 >* *CNN* - Convolutional Neural Network<br/>
   `일반 신경망에 복잡성을 추가하여 연산처리 성능을 올린 것. 주로 이미지 처리 등에 사용`
 >* *Containerization* - 컨테이너화
->* *Csv* - Comma-Seprate Values
+>* *CSV* - Comma-Seprate Values
 >* *CVS* - Concurrent version system의 약자로, 버전 관리 툴.
 
 [△Top](#단어용어정리)
@@ -41,6 +41,7 @@
 ## F
 
 >* *FaaS* - Function as a Service (다른 **As-a-Service** [참조][ref-aas])
+>* *Function(컴퓨팅 용어)* - 특정 작업을 수행하는 `코드조각`. 전역, 지역이던 `독립된 기능`을 수행하는 단위 [참조][ref-function_method]
 
 [△Top](#단어용어정리)
 
@@ -67,11 +68,13 @@
 ## L
 
 >* *Labeling/Labelling* - 라벨링(머신러닝)
+>* *Lambda* - 람다
 
 [△Top](#단어용어정리)
 
 ## M
 
+>* *Method* - 메서드(클래스 내에 구현된 함수라는 점에서 함수와 달리한다) [참조][ref-function_method]
 >* *MVC* - Model-View-Controller 개념의 약자
 
 [△Top](#단어용어정리)
@@ -233,3 +236,4 @@
 [ref-aas]:https://en.wikipedia.org/wiki/As_a_service
 [RL-guide]:https://www.inflearn.com/course/reinforcement-learning#
 [ref-REST_API]: https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
+[ref-function_method]:https://zeddios.tistory.com/233
