@@ -113,6 +113,14 @@
 ## S
 
 >* *SaaS* - Software as a Service (다른 **As-a-Service** [참조][ref-aas])
+>* *SQL* - Structured Query Language<br>
+  `SQL은 관계형 데이터베이스 관리 시스템(RDBMS)의 데이터를 관리하기 위해 설계된 특수 목적의 프로그래밍 언어이다.
+  관계형 데이터 베이스 관리 시스템에서 자료의 검색과 관리, 데이터베이스 스키마 생성과 수정,
+  데이터 베이스 객체 접근 조정 관리를 위해 고안되었다.
+  많은 수의 데이터베이스 관련 프로그램들이 SQL을 표준으로 채택하고 있다.
+  `
+  ([위키피디아](https://ko.wikipedia.org/wiki/SQL))
+
 
 [△Top](#단어용어정리)
 
