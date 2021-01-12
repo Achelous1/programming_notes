@@ -34,7 +34,7 @@
 
 ## E
 
->* *E2E Test* - [End to End Test](https://medium.com/hbsmith/e2e-test-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3c524862469d)
+>* *E2E Test* - [End to End Test][ref-e2e]
 
 [△Top](#단어용어정리)
 
@@ -50,6 +50,8 @@
 [△Top](#단어용어정리)
 
 ## H
+
+>* *HA* - High Availability ([HA 시스템][ref-ha_system])
 
 [△Top](#단어용어정리)
 
@@ -245,3 +247,5 @@
 [RL-guide]:https://www.inflearn.com/course/reinforcement-learning#
 [ref-REST_API]: https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 [ref-function_method]:https://zeddios.tistory.com/233
+[ref-ha_system]:http://www.terms.co.kr/HA.htm
+[ref-e2e]:https://medium.com/hbsmith/e2e-test-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3c524862469d
