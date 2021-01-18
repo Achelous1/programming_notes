@@ -128,12 +128,14 @@
 
 ## T
 
+>* *TCP* - Transmission Control Protocol [참조][ref-TCP]
 >* *TDD* - Test Driven Design
 
 [△Top](#단어용어정리)
 
 ## U
 
+>* *UDP* - User Datagram Protocol [참조][ref-UDP]
 >* *UML* - Unified Modeling Language
 
 [△Top](#단어용어정리)
@@ -249,3 +251,5 @@
 [ref-function_method]:https://zeddios.tistory.com/233
 [ref-ha_system]:http://www.terms.co.kr/HA.htm
 [ref-e2e]:https://medium.com/hbsmith/e2e-test-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3c524862469d
+[ref-TCP]:https://ko.wikipedia.org/wiki/%EC%A0%84%EC%86%A1_%EC%A0%9C%EC%96%B4_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C
+[ref-UDP]:https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B7%B8%EB%9E%A8_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C
